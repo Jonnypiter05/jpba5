@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+#background {
+    background-color:aqua ;
+}
+img {
+    height: 310px; width: 380px; border-radius: 70%;
+}
+#entrar {
+    height: 50px; width: 90px;  border-radius: 70%; background-color:lightskyblue;
+}
